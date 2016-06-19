@@ -41,7 +41,7 @@ namespace Sulakore.Components
             }
         }
 
-        protected HSchedule SelectedSchedule
+        public HSchedule SelectedSchedule
         {
             get
             {
